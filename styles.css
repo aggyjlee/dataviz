@@ -65,9 +65,15 @@ section{
     max-width: 80%;
 }
 
-#funnel, #tweet{
+#funnel{
+    max-width: 50%;
+    display: flex;
+    margin: 0px auto;
+    /* border: 2px solid red; */
+}
+
+#tweet, #news, #fbi{
     float: left;
-    width: 50%;
+    width: 33.33%;
     padding: 5px;
-    margin-bottom: 4vh;
 }
