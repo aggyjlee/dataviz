@@ -66,14 +66,14 @@ section{
 }
 
 #funnel{
-    max-width: 50%;
+    max-width: 70%;
     display: flex;
     margin: 0px auto;
     /* border: 2px solid red; */
 }
 
 #tweet, #news, #fbi{
-    float: left;
-    width: 33.33%;
-    padding: 5px;
+    max-width: 50%;
+    display: flex;
+    margin: 0px auto;
 }
