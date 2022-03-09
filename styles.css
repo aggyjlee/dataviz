@@ -65,8 +65,9 @@ section{
     max-width: 80%;
 }
 
-#funnel{
-    max-width: 60%;
-    margin: 0px auto;
-    display: flex;
+#funnel, #tweet{
+    float: left;
+    width: 50%;
+    padding: 5px;
+    margin-bottom: 4vh;
 }
