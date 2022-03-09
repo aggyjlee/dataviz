@@ -64,3 +64,9 @@ section{
     margin: 20px auto;
     max-width: 80%;
 }
+
+#funnel{
+    max-width: 60%;
+    margin: 0px auto;
+    display: flex;
+}
